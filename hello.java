@@ -8,7 +8,7 @@ public class hello {
        String firstName = "Gabriel";
 	
        // Using the value of the variable above, output a message in the format, "Hello, I am Alex".
-
+       System.out.println("hello, I am " + firstName);
     }
 }
 
