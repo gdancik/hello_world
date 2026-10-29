@@ -1,4 +1,7 @@
 # hello_world (test)
 
-A sample repository for a classroom assignment, to help students learn how to use Github. 
+A sample repository to print Dancik's name.
 
+# hello.java
+
+Prints Dr. Dancik's first name.
