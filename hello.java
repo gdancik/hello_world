@@ -5,13 +5,10 @@ public class hello {
     public static void main(String [] args) {
 
        // initialize variables
-       String firstName = "Alex";
-
-       // delete this line
-       System.out.println("Modify this code");
+       String firstName = "Jacob";
 	
        // Using the value of the variable above, output a message in the format, "Hello, I am Alex".
-
+        System.out.println("Hello, I am " + firstName);
     }
 }
 
