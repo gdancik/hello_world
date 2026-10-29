@@ -5,7 +5,7 @@ public class hello {
     public static void main(String [] args) {
 
        // initialize variables
-       String firstName = "Alex";
+       String firstName = "Henry";
 
        // delete this line
        System.out.println("Modify this code");
