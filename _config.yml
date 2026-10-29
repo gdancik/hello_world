@@ -1,3 +1,3 @@
 title: Hello World Project
 Description: A sample repository to print hello for a professor's name.
-theme: minima
+theme: jekyll-theme-minima
